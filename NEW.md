@@ -1,0 +1,1 @@
+New stage in Git
